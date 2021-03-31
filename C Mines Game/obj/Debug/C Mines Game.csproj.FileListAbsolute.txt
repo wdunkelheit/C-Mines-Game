@@ -1,0 +1,30 @@
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csprojAssemblyReference.cache
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.CMinesMain.resources
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.Properties.Resources.resources
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.GenerateResource.cache
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe.config
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\bin\Debug\C Mines Game.pdb
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C Mines Game.exe
+C:\Users\William\Documents\Classes\Computer Systems 2B\C#\C Mines Game\C Mines Game\obj\Debug\C Mines Game.pdb
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe.config
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\bin\Debug\C Mines Game.pdb
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csprojAssemblyReference.cache
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.CMinesMain.resources
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.Properties.Resources.resources
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.GenerateResource.cache
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C Mines Game.exe
+C:\Users\William\Desktop\C Mines Game\C Mines Game\C Mines Game\obj\Debug\C Mines Game.pdb
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe.config
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\bin\Debug\C Mines Game.exe
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\bin\Debug\C Mines Game.pdb
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.CMinesMain.resources
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C_Mines_Game.Properties.Resources.resources
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.GenerateResource.cache
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C Mines Game.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C Mines Game.exe
+C:\Users\William\Desktop\Computer Systems 2B Assignment 1\C Mines Game\C Mines Game\obj\Debug\C Mines Game.pdb
