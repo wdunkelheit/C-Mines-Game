@@ -1,3 +1,3 @@
-# Cellular Automata
+# C Mines Game
 
 * Completed Assignment
